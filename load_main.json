@@ -1,20 +1,19 @@
 {
-    "banners" : [
-        {
-            "productId" : 1234,
-            "image" : "https://ambassador-city-jomtien.ru/uploads/posts/2014-06/1402727193_mango2.jpg"
-        },
-        {
-            "productId" : 1234,
-            "image" : "https://ambassador-city-jomtien.ru/uploads/posts/2014-06/1402727193_mango2.jpg"
-        }
-    ],
-  
-    "categories" : [
-        {
-            "categoryId" : 1234,
-            "name" : "Тропические",
-            "image" : "https://ambassador-city-jomtien.ru/uploads/posts/2014-06/1402727193_mango2.jpg"
-        }
-    ]
+   "banners":[
+      {
+         "productId":1234,
+         "image":"https://ambassador-city-jomtien.ru/uploads/posts/2014-06/1402727193_mango2.jpg"
+      },
+      {
+         "productId":1234,
+         "image":"https://ambassador-city-jomtien.ru/uploads/posts/2014-06/1402727193_mango2.jpg"
+      }
+   ],
+   "categories":[
+      {
+         "categoryId":1234,
+         "name":"Тропические",
+         "image":"https://ambassador-city-jomtien.ru/uploads/posts/2014-06/1402727193_mango2.jpg"
+      }
+   ]
 }
