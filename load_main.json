@@ -2,11 +2,11 @@
     "banners" : [
         {
             "productId" : "1234",
-            "image" : "ссылка на картинку"
+            "image" : "https://ambassador-city-jomtien.ru/uploads/posts/2014-06/1402727193_mango2.jpg"
         },
         {
             "id" : "1234",
-            "image" : "ссылка на картинку"
+            "image" : "https://ambassador-city-jomtien.ru/uploads/posts/2014-06/1402727193_mango2.jpg"
         }
     ],
     "quotes" : {
@@ -30,7 +30,7 @@
         {
             "categoryId" : "1234",
             "name" : "Тропические",
-            "image" : "ссылка на картинку"
+            "image" : "https://ambassador-city-jomtien.ru/uploads/posts/2014-06/1402727193_mango2.jpg"
         }
     ]
 }
