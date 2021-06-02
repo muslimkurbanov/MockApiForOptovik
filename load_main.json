@@ -9,23 +9,7 @@
             "image" : "https://ambassador-city-jomtien.ru/uploads/posts/2014-06/1402727193_mango2.jpg"
         }
     ],
-    "quotes" : {
-        "title" : "Котировки на 06.05.2021",
-        "items" : [
-            {
-                "id" : "1234",
-                "name" : "Королек",
-                "price" : "124 ₽/кг",
-                "quote" : 0.37
-            },
-            {
-                "id" : "1234",
-                "name" : "Банан",
-                "price" : "87 ₽/кг",
-                "quote" : -0.77
-            }
-        ]
-    },
+  
     "categories" : [
         {
             "categoryId" : "1234",
