@@ -13,6 +13,24 @@
          "image":"https://avatars.mds.yandex.net/get-zen_doc/59919/pub_5ceb814700a94000b0d33410_5ceb814d459d3300af992973/scale_1200"
       }
    ],
+    "quotes" : {
+        "title" : "Котировки на 06.05.2021",
+        "items" : [
+            {
+                "id" : "1234",
+                "name" : "Королек",
+                "price" : "124 ₽/кг",
+                "quote" : 0.37
+            },
+            {
+                "id" : "1234",
+                "name" : "Банан",
+                "price" : "87 ₽/кг",
+                "quote" : -0.77
+            }
+        ]
+    },
+
    "categories":[
       {
          "categoryId":1234,
