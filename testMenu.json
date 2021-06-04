@@ -1,18 +1,4 @@
 {
-   "banners":[
-      {
-         "productId":1234,
-         "image":"https://cdnimg.rg.ru/img/content/164/45/47/pixabay_tangerines-1721590_1280_d_850.jpg"
-      },
-      {
-         "productId":1234,
-         "image":"http://cdn.iz.ru/sites/default/files/styles/900x506/public/news-2019-03/20180219_gaf_uw8_1419.jpg?itok=FNPOwVPI"
-      },
-      {
-         "productId":1234,
-         "image":"https://avatars.mds.yandex.net/get-zen_doc/59919/pub_5ceb814700a94000b0d33410_5ceb814d459d3300af992973/scale_1200"
-      }
-   ],
     "quotes" : {
         "title" : "Котировки на 03.06.2021",
         "items" : [
@@ -71,53 +57,5 @@
                 "quote" : "+0.37"
             }
         ]
-    },
-
-   "categories":[
-      {
-         "categoryId":1234,
-         "name":"Тропические",
-         "image":"https://cdnimg.rg.ru/img/content/164/45/47/pixabay_tangerines-1721590_1280_d_850.jpg"
-      },
-      {
-         "categoryId":1234,
-         "name":"Тропические",
-         "image":"https://cdnimg.rg.ru/img/content/164/45/47/pixabay_tangerines-1721590_1280_d_850.jpg"
-      },
-      {
-         "categoryId":1234,
-         "name":"Тропические",
-         "image":"https://cdnimg.rg.ru/img/content/164/45/47/pixabay_tangerines-1721590_1280_d_850.jpg"
-      },
-      {
-         "categoryId":1234,
-         "name":"Тропические",
-         "image":"https://cdnimg.rg.ru/img/content/164/45/47/pixabay_tangerines-1721590_1280_d_850.jpg"
-      },
-      {
-         "categoryId":1234,
-         "name":"Тропические",
-         "image":"https://cdnimg.rg.ru/img/content/164/45/47/pixabay_tangerines-1721590_1280_d_850.jpg"
-      },
-      {
-         "categoryId":1234,
-         "name":"Тропические",
-         "image":"https://cdnimg.rg.ru/img/content/164/45/47/pixabay_tangerines-1721590_1280_d_850.jpg"
-      },
-      {
-         "categoryId":1234,
-         "name":"Тропические",
-         "image":"https://cdnimg.rg.ru/img/content/164/45/47/pixabay_tangerines-1721590_1280_d_850.jpg"
-      },
-      {
-         "categoryId":1234,
-         "name":"Тропические",
-         "image":"https://ambassador-city-jomtien.ru/uploads/posts/2014-06/1402727193_mango2.jpg"
-      },
-      {
-         "categoryId":1234,
-         "name":"Тропические",
-         "image":"https://ambassador-city-jomtien.ru/uploads/posts/2014-06/1402727193_mango2.jpg"
-      }
-   ]
+    }
 }
